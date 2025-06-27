@@ -12,4 +12,4 @@
 
 *MENTOR* : NEELA SANTOSH
 
-I have successfully completed the task of designing and implementing 4-STAGE PIPELINED PROCESSOR WITH BASIC INSTRUCTIONS LIKE ADD, SUB & LOAD by utilising ChatGPT to clarify certain concepts and to rectify a few errors. which helped me improve the overall functionality and correctness of the design.
+I have successfully completed the task of designing and implementing 4-STAGE PIPELINED PROCESSOR WITH BASIC INSTRUCTIONS LIKE ADD, SUB & LOAD by utilising  ChatGPT to rectify a few errors and To gain conceptual clarity before writing the code, I referred to the NPTEL video lectures by Prof. Indranil Sengupta, which provided an excellent theoretical background. which helped me improve the overall functionality and correctness of the design.
